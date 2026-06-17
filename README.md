@@ -15,7 +15,7 @@ Now, Add The main code of Hostel Management System to your project file(.py)
 
 Use this username and password
 
-Username = Aarif&786
+Username = Aarif@786
 Password = Meri@786
 
 
